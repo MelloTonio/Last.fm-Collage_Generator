@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Oswald&display=swap');
+
+.texto{
+    font-size: 50px;
+    font-family: 'Oswald', sans-serif;
+}
+body{
+    background-image: url("images/ah.jpg");
+}
