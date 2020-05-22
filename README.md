@@ -15,8 +15,10 @@ Bibliotecas necessárias para rodar:
 
 * Bootstrap Simples
 
-![](lastfm-files/read_images/lastchart)
-![](lastfm-files/read_images/lastfmintro)
+![small](lastfm-files/read_images/lastfmintro.png)
+
+<img src="https://github.com/MelloTonio/Last.fm-Collage_Generator/blob/master/lastfm-files/read_images/lastchart.png" alt="Your image title" width="350" height="350"/>
+
 
 ## Built With
 
