@@ -9,7 +9,11 @@ Bibliotecas necessárias para rodar:
 ## Design
 <i>Bootstrap 4 only</i>
 
+## Searching for a user
 ![small](lastfm-files/read_images/lastfmintro.png)
+<p>(Here you can first set a <a href="https://www.last.fm/">last.fm</a> username, then you need to choose a date (Ex. 1 month, 7 days..) and finally you choose the size of the grid that you want to see)</p>
+
+## Example of an album grid 3X3
 <img align="center" src="https://github.com/MelloTonio/Last.fm-Collage_Generator/blob/master/lastfm-files/read_images/lastchart.png" alt="Your image title" width="350" height="350"/>
 
 
