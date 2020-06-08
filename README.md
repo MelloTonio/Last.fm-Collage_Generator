@@ -7,11 +7,10 @@ Bibliotecas necessárias para rodar:
 * Axios →  ```npm install axios``` 
 
 ## Design
-
-* Bootstrap Simples
+<i>Bootstrap 4 only</i>
 
 ![small](lastfm-files/read_images/lastfmintro.png)
-<img src="https://github.com/MelloTonio/Last.fm-Collage_Generator/blob/master/lastfm-files/read_images/lastchart.png" alt="Your image title" width="350" height="350"/>
+<img align="center" src="https://github.com/MelloTonio/Last.fm-Collage_Generator/blob/master/lastfm-files/read_images/lastchart.png" alt="Your image title" width="350" height="350"/>
 
 
 ## Built With
