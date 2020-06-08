@@ -3,7 +3,7 @@
 
 ## Prerequisites
 
-Bibliotecas necessárias para rodar:
+Required Libraries:
 * Axios →  ```npm install axios``` 
 
 ## Design
