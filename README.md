@@ -1,6 +1,5 @@
-# Last.fm Collage Generator
-
-Monta uma "Grid" de albuns a partir da escolha do usuário por meio de requisições ao servidor do last.fm
+<h1 align="center">Last.fm Collage Generator</h1>
+<p align="center"><i>Generates an album "Grid" based on a DD / MM / YY of a last.fm user</i></p>
 
 ### Prerequisites
 
