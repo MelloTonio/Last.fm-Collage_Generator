@@ -4,7 +4,7 @@
 ## Prerequisites
 
 Bibliotecas necessárias para rodar:
-* Axios ➡  ```npm install axios``` 
+* Axios →  ```npm install axios``` 
 
 ## Design
 
