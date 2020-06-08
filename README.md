@@ -1,16 +1,12 @@
 <h1 align="center">Last.fm Collage Generator</h1>
 <p align="center"><i>Generates an album "Grid" based on the time a last.fm user listened to music</i></p>
 
-### Prerequisites
+## Prerequisites
 
 Bibliotecas necessárias para rodar:
-* Axios
-* Feito com auxilio do Browsify
+* Axios ➡  ```npm install axios``` 
 
-```npm init ```  
- ```npm install axios```  
-
-### Design
+## Design
 
 * Bootstrap Simples
 
